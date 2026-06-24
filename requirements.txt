@@ -1,1 +1,5 @@
-
+flask
+anthropic
+stripe
+python-dotenv
+gunicorn
